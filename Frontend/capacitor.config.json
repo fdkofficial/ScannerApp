@@ -1,0 +1,6 @@
+{
+  "appId": "nadaa.cpt.app",
+  "appName": "CPT Sample Scanner",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

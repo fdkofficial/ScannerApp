@@ -1,0 +1,7 @@
+{
+  "name": "CPT Sample Scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
